@@ -4,38 +4,41 @@ vCard - Personal Portfolio
 
 alt = Elfriied OBOU
 Elfriied OBOU
-Web developer
+Data Analyst
 
 Show Contacts
 
 Email
-richard@example.com
+elfriiedkevinobouofficiel@gmail.com
 
 Phone
-+1 (213) 352-2795
++225 0779309686
 
 Birthday
-June 23, 1982
+December 18, 1997
 
 Location
-Sacramento, California, USA
+Cocody, Abidjan, Cote d'Ivoire
 
 # navbar
 
 About
 Resume
 Portfolio
-Blog
+??Blog
 Contact
 
 # about
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Je suis Analyste de données et Développeur web basé à Abidjan, travaillant dans la technologie des données et l'automatisation.
+J'ai une passion pour la transformation des données en informations exploitables, et j'aime créer des solutions qui aident les entreprises à prendre des décisions stratégiques.
+J'ai une formation en Ingénierie Financière et en Sciences Économiques, ce qui me permet de comprendre les enjeux financiers et économiques des entreprises.
+J'aime transformer les données en informations exploitables en vue de prendre des décisions stratégiques, dans des dashboards beaux et intuitives.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+Mon travail consiste à construire votre dashboard à ce qu'il soit fonctionnel et pertinent tout en étant attrayant.
+De plus, j'apporte une touche personnelle à votre produit et m'assure qu'il soit accrocheur et facile à utiliser. Mon objectif est de transmettre votre message et votre identité de la manière la plus créative possible. J'ai créé des dashboards pour de nombreuses entreprises de divers secteurs.
 
 ## service
 
